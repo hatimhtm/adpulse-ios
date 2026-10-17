@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <img src="assets-readme/screenshot.jpg" alt="adpulse on iPhone: the overview and two detail screens" width="100%" />
+</p>
+
+<p align="center">
   <em>AdPulse is an open-source iOS 17+ analytics dashboard for monitoring ad-creative performance: Meta Ads, ad spend, ROAS, conversions, anomalies. Built as a reference implementation of the modern iOS feature surface: <code>@Observable</code>, Symbol Effects, Sensory Feedback, Live Activities, interactive Swift Charts, presentation detents, SwiftData persistence, and Live Activity widgets.</em>
 </p>
 
